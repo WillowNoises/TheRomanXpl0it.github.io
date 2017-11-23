@@ -1,6 +1,6 @@
 ---
 title: Luigi Paolo Pileggi
-github: WillowNoises
-mail: willownoises@gmail.com
+github: rop2bash
+mail: rop2bash@gmail.com
 categories: team
 ---
